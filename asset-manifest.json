@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nazafeed/static/css/main.7bbde1e4.css",
-    "main.js": "/nazafeed/static/js/main.a6f399aa.js",
+    "main.js": "/nazafeed/static/js/main.d82f7fa5.js",
     "index.html": "/nazafeed/index.html",
     "main.7bbde1e4.css.map": "/nazafeed/static/css/main.7bbde1e4.css.map",
-    "main.a6f399aa.js.map": "/nazafeed/static/js/main.a6f399aa.js.map"
+    "main.d82f7fa5.js.map": "/nazafeed/static/js/main.d82f7fa5.js.map"
   },
   "entrypoints": [
     "static/css/main.7bbde1e4.css",
-    "static/js/main.a6f399aa.js"
+    "static/js/main.d82f7fa5.js"
   ]
 }
